@@ -1,0 +1,13 @@
+**/node_modules/
+**/npm-debug.log
+**/.idea/
+**/platforms/
+**/plugins/
+**/.git/
+**/.gradle/
+**/build/
+**/out/
+**/*.iml
+*.class
+**/key.pem
+**/*.exe
